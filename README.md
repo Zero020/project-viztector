@@ -7,7 +7,7 @@
 ## Index
 
 1. [Overview](#-overview)
-2. [실행방법](#-실행방법)
+2. [How to Run](#-how-to-run)
 3. [Flow](#-flow)
 4. [Tech Stack](#-tech-stack)
 5. [Member](#-member)
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-## 🚀 실행 방법
+## 🚀 How to Run
 
 [ChartReader](https://github.com/zhiqic/ChartReader), [korean_ocr_using_pororo](https://github.com/black7375/korean_ocr_using_pororo)
 기반 그래프 왜곡탐지 모델
@@ -104,7 +104,7 @@ Start 버튼 클릭후 이미지 클릭
 
 <br>
 
-## 🙋‍♀️ Member
+## 👥 Member
 > 7명
 
 <br>
